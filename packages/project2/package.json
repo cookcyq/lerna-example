@@ -1,11 +1,10 @@
 {
   "name": "project2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "run": "node main.js",
     "build": "node main.js"
-  },
-  "dependencies": {}
+  }
 }
